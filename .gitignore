@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.nova
+vendor
+photos/original/.DS_Store
+
+# Local Netlify folder
+.netlify
